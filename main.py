@@ -1,6 +1,6 @@
-example = 'Урок'
-print(example[0])
-print(example[-1])
-print(example[1:])
-print(example[::-1])
-print(example[1:4:2])
+
+homework = 12
+hour = 1.5
+name_lesson = "Pyhton"
+result=(1.5/12)
+print(name_lesson,', всего задач:', homework ,', затрачено часов:', hour, ', среднее время выполнения ', result, 'часа' )
